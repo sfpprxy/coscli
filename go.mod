@@ -1,4 +1,4 @@
-module coscli
+module github.com/sfpprxy/coscli
 
 go 1.16
 
